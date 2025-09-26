@@ -13,6 +13,9 @@ Splitting the dataset into training and test sets.
 Model Training:
 
 Logistic Regression is used to model the relationship between the features and the target variable (diagnosis).
+Balanced weight class is used to reduce the impact of imbalanced dataset.
+Regularization such as Ridege and Lasso are used to evaluate the model  as well to find the feature coefficients .
+
 
 Threshold Tuning:
 
