@@ -2,7 +2,7 @@
 Logistic Regression Breast Cancer model
 This notebook demonstrates how to apply Logistic Regression to the Breast Cancer Wisconsin dataset, with a focus on threshold tuning. Threshold tuning is used to adjust the decision boundary that determines whether an observation is classified as malignant or benign based on the predicted probabilities from the logistic regression model.
 
-Steps in the Notebook:
+## Steps in the Notebook:
 
 Data Preprocessing:
 
